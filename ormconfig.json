@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "darkturquoise-heron-520419.hostingersite.com",
+    "port": 3306,
+    "username": "u827545168_food_order_hm",
+    "password": "l8U|gf3!*[e",
+    "database": "u827545168_food_order_hm",
+    "entities": ["src/entity/*.ts"],
+    "synchronize": true
+ }
